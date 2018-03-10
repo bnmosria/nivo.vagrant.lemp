@@ -1,6 +1,6 @@
 # LEMP stack on a virtual machine using Vagrant
 
-This is how I set up a LEMP-Stack on a virtual machine for sandboxed projects. The Vagrantfile comes with a bootstrap.sh setting up everything you need on a virtual machine. Feel free to customize the bootstrapping to fit your needs.
+This is how I set up a LEMP-Stack (before I discovered Laravels Homestead) on a virtual machine for sandboxed projects. The Vagrantfile comes with a bootstrap.sh setting up everything you need on a virtual machine. Feel free to customize the bootstrapping to fit your needs.
 
 ## The setup installs and configures the tools below on a virtual ubuntu machine
 
